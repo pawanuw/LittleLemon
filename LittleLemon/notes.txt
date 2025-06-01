@@ -1,0 +1,18 @@
+##Usernames
+------------
+________________________________________________
+superuser       | admin                         |
+managers        | mahinda                       |
+delivery crew   | namal, chichi                 |
+customers       | anura, kamal, shushi, sunimal |
+________________|_______________________________|
+
+
+
+##Passwords
+___________
+HelloThere1
+-----------
+above is the Passwords for all the user accounts
+
+thank you :)
